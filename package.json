@@ -1,0 +1,18 @@
+{
+  externalWidgets : [
+    "WakendoCore", 
+    "WakendoDatePicker",
+    "WakendoRangeSlider",
+    "WakendoCombobox",
+    "WakendoDropDownList",
+    "WakendoProgressBar",
+    "WakendoColorPicker",
+    "WakendoMaskedTextBox",
+    "WakendoNumericTextBox",
+    "WakendoPaletteColorPicker",
+    "WakendoSlider",
+    "WakendoTimePicker",
+    "WakendoCalendar",
+    "WakendoButton"
+  ]
+}
