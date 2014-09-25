@@ -1,4 +1,5 @@
 {
+  "name" : "InstallAllWakendos",
   "category" : "Hidden",
   "externalWidgets" : [
     "WakendoCore", 
