@@ -1,5 +1,5 @@
 {
-  externalWidgets : [
+  "externalWidgets" : [
     "WakendoCore", 
     "WakendoDatePicker",
     "WakendoRangeSlider",
