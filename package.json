@@ -2,6 +2,7 @@
   "externalWidgets" : [
     "WakendoCore", 
     "WakendoDatePicker",
+    "WakendoDatePicker",
     "WakendoRangeSlider",
     "WakendoCombobox",
     "WakendoDropDownList",
